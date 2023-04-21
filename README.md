@@ -12,5 +12,7 @@ You can edit the dataloader file paths to reflect the filepath that you saved th
 ### Dependencies
 Code for downloading dependencies are included in each of the Python notebooks. 
 
-### Testing the model output (pth) files
+### Testing the model weight (pth) files
 At the end of each notebook, the code is provided to load the model output file and run the confusion matrix. 
+An additional model weight file for the resnet model is found at this link:    
+https://drive.google.com/file/d/1m2F6hCE830ckA0ciwuWzyGFI1kcNmvEC/view?usp=share_link 
